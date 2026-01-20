@@ -1,0 +1,18 @@
+# Ваши существующие папки/файлы
+__pycache__
+.venv
+downloaded_files/
+
+# Дополнительно для безопасности
+.env
+.env.local
+*.key
+*.pem
+secrets.json
+config_private.py
+token.txt
+credentials*
+
+# Системное
+.DS_Store
+*.log
